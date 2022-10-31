@@ -1,0 +1,16 @@
+h1, p
+{
+    text-align: center;
+}
+.navbar a
+{
+    text-decoration: none;
+    text-overflow: none;
+    color: red;
+}
+.img-right
+{
+    text-align: right;
+    width: 150px;
+    height: 150px;
+}
